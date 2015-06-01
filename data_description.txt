@@ -1,0 +1,14 @@
+# Author: Kien Nguyen
+OpenStreetMap data for Des Moines Area
+https://s3.amazonaws.com/metro-extracts.mapzen.com/des-moines_iowa.osm.bz2
+
+Description:
+From Wikipedia (http://en.wikipedia.org/wiki/Des_Moines,_Iowa)
+Des Moines is the capital and the most populous city in the US state of Iowa
+It is also the county seat of Polk County. A small portion of the city extends into
+Warren County.
+
+Reason:
+I am currently a student at Iowa State University (ISU). I've been driving back and forth from
+ISU to Des Moines several times. I want to audit and analyze Des Moines data to make the area
+date cleaner and better used.
